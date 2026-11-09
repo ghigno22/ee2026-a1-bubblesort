@@ -1,0 +1,8 @@
+timestamp: 2026-11-09T16:11:49.515620Z
+java.version: 25.0.2
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+os: Mac OS X 26.3 aarch64
+available processors: 11
+max heap (MB): 1024
+jvm arguments: [-Xms1g, -Xmx1g]
+sizes: [100, 1000, 5000, 10000], reps: 30, warmup: 10, seed: 42
